@@ -1,0 +1,3 @@
+"""Admin for `{{ app_name }}` app."""
+
+from django.contrib import admin
